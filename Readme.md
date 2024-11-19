@@ -1,4 +1,4 @@
-# Diabetes and Parkinson's Disease Prediction System
+Parkinson's Disease Prediction System
 
 Role: Developer || Researcher
 
